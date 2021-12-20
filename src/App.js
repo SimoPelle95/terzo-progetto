@@ -6,6 +6,7 @@ function App() {
       <h1>La nostra prima card</h1>
       <Product />
       <Product />
+      <Product />
      {/* <Componente1/>*/}
     </div>
   );
