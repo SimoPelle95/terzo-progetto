@@ -7,6 +7,7 @@ function App() {
       <Product />
       <Product />
       <Product />
+      <Product />
      {/* <Componente1/>*/}
     </div>
   );
