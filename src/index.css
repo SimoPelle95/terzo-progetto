@@ -41,7 +41,7 @@ p{
   text-align: center;
 }
 .bottone{
-  color: rgb(18, 18, 19);
+  color: rgb(117, 117, 119);
   display:block;
   margin:0px auto;
   text-align:center;
@@ -51,7 +51,7 @@ p{
   width: 200px;
   border-color: rgb(20, 149, 30);
   border-radius: 30px;
-  background-color: green;
+  background-color:rgb(44, 39, 39);
 }
 .bottone:hover{
   color: white;
