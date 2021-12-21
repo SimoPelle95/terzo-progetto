@@ -6,8 +6,11 @@ const Product = () => {
         <article className='card'>
             <div>
                 <img src={img} alt=''/>
-                <p>14.00</p>
+                <p style={{
+                    textTransform:"uppercase"
+                }}>Smart Card di Amazon da 5 Euro...</p>
                 <hr/>
+                <button className='bottone'>Compra</button>
             </div> 
         </article>
     )
