@@ -28,6 +28,7 @@ function App() {
         const {id} = prodotto;
         return <Product key={id} {...prodotto}/>
       })}
+      {/*{products.map((prodotto) => <Product key={prodotto.id} {...prodotto}/>)}*/}
      {/* <Componente1/>*/}
     </div>
   );
